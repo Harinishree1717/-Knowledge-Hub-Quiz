@@ -51,7 +51,7 @@ You can add your **screenshot** or **screen-record thumbnail** here.
 ### Option 1: Clone the repository
 
 ```bash
-git clone https://github.com/Harinishree1717/Knowledge-Hub-Quiz.git
+[git clone https://github.com/Harinishree1717/Knowledge-Hub-Quiz.git](https://github.com/Harinishree1717/-Knowledge-Hub-Quiz.git)
 ````
 * Open the downloaded folder.
 * Open the index.html file in any web browser.
