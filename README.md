@@ -60,7 +60,7 @@ git clone https://github.com/Harinishree1717/Knowledge-Hub-Quiz.git
 
 ### Option 2: Try the Live Demo Online
 
-[https://harinishree1717.github.io/-Smart-Grade-Calculator/](https://harinishree1717.github.io/-Smart-Grade-Calculator/)
+[Knowledge Hub Quiz Live Demo](https://harinishree1717.github.io/-Knowledge-Hub-Quiz/)
 
 ---
 
