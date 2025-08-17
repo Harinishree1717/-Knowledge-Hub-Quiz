@@ -43,7 +43,8 @@ Designed for students to test their knowledge instantly and receive immediate fe
 
 ## 🖼 Output Preview
 
-You can add your **screenshot** or **screen-record thumbnail** here.
+[▶ Watch Quiz Demo](https://drive.google.com/file/d/1QCH497r7ZksIibyAq7N1zsQxuh2F_R5X/view?usp=drivesdk)
+
 
 ---
 ## 📂 How to Use
